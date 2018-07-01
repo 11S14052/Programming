@@ -1,0 +1,9 @@
+Nama Anggota Kelompok :
+- Rudi Butar-butar (11S14042)
+- Sandro Nababan (11S14026)
+- Apria Theovani Nainggolan (11S14048)
+- Wahyu Adi P Nainggolan (11S14052)
+
+Project yang dapat di jalankan adalah 
+1. Face_recognation.ipynb (notebook)
+2. Face_recognation.py (Spyder)
